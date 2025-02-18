@@ -112,7 +112,7 @@ If you are running LLM locally via [Ollama](https://ollama.com/), make sure the 
    ***Clone the repository***
    ```shell
       cd..
-      git clone [https://github.com/3choff/FastWhisperAPI.git]
+      git clone https://github.com/3choff/FastWhisperAPI.git
       cd FastWhisperAPI
    ```
    ***Install the required packages:***
