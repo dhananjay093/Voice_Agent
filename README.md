@@ -1,13 +1,4 @@
-# VERBI - Voice Assistant 🎙️
-<p align="center">
-<a href="https://trendshift.io/repositories/11584" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11584" alt="PromtEngineer%2FVerbi | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</p>
-
-[![GitHub Stars](https://img.shields.io/github/stars/PromtEngineer/Verbi?style=social)](https://github.com/PromtEngineer/Verbi/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/PromtEngineer/Verbi?style=social)](https://github.com/PromtEngineer/Verbi/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/PromtEngineer/Verbi)](https://github.com/PromtEngineer/Verbi/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/PromtEngineer/Verbi)](https://github.com/PromtEngineer/Verbi/pulls)
-[![License](https://img.shields.io/github/license/PromtEngineer/Verbi)](https://github.com/PromtEngineer/Verbi/blob/main/LICENSE)
+#  Voice Assistant 🎙️
 
 ## Motivation ✨✨✨
 
@@ -54,7 +45,7 @@ voice_assistant/
 1. 📥 **Clone the repository**
 
 ```shell
-   git clone https://github.com/PromtEngineer/Verbi.git
+   git clone https://github.com/dhananjay093/Voice_Agent.git
    cd Verbi
 ```
 2. 🐍 **Set up a virtual environment**
@@ -106,7 +97,6 @@ Edit config.py to select the models you want to use:
 If you are running LLM locally via [Ollama](https://ollama.com/), make sure the Ollama server is runnig before starting verbi. 
 
 6. 🔊 **Configure ElevenLabs Jarvis' Voice**
-- Voice samples [here](https://github.com/PromtEngineer/Verbi/tree/main/voice_samples).
 - Follow this [link](https://elevenlabs.io/app/voice-lab/share/de3746fa51a09e771604d74b5d1ff6797b6b96a5958f9de95cef544dde31dad9/WArWzu0z4mbSyy5BfRKM) to add the Jarvis voice to your ElevenLabs account.
 - Name the voice 'Paul J.' or, if you prefer a different name, ensure it matches the ELEVENLABS_VOICE_ID variable in the text_to_speech.py file.
 
@@ -122,7 +112,7 @@ If you are running LLM locally via [Ollama](https://ollama.com/), make sure the 
    ***Clone the repository***
    ```shell
       cd..
-      git clone https://github.com/3choff/FastWhisperAPI.git
+      git clone [https://github.com/3choff/FastWhisperAPI.git]
       cd FastWhisperAPI
    ```
    ***Install the required packages:***
@@ -226,8 +216,5 @@ We welcome contributions from the community! If you'd like to help improve this 
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request detailing your changes.
 
-## Star History ✨✨✨
-
-[![Star History Chart](https://api.star-history.com/svg?repos=PromtEngineer/Verbi&type=Date)](https://star-history.com/#PromtEngineer/Verbi&Date)
 
 
