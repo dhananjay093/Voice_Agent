@@ -46,7 +46,7 @@ voice_assistant/
 
 ```shell
    git clone https://github.com/dhananjay093/Voice_Agent.git
-   cd Verbi
+   cd Voice_Agent
 ```
 2. 🐍 **Set up a virtual environment**
 
@@ -59,8 +59,8 @@ voice_assistant/
   Using `conda`:
 
 ```shell
-    conda create --name verbi python=3.10
-    conda activate verbi
+    conda create --name Voice_Agent python=3.10
+    conda activate Voice_Agent
 ```
 3.  📦 **Install the required packages**
 
